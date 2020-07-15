@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+love U, no matter where U are or who U are.
+
 <!--
 **tincochan/tincochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=tincochan.tincochan)
