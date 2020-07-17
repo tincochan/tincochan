@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=tincochan.tincochan)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)](https://github.com/anuraghazra/github-readme-stats)
