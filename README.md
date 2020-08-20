@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)](https://github.com/tincochan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tincochan&layout=compact)](https://github.com/tincochan/github-readme-stats)
+
