@@ -2,6 +2,8 @@
 
 love U, no matter where U are or who U are.
 
+<a href="https://psnprofiles.com/Scheuerbuerste"><img src="https://card.psnprofiles.com/1/Scheuerbuerste.png" border="0"></a>
+
 <!--
 **tincochan/tincochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
