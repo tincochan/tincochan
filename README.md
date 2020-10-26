@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tincochan&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tincochan&layout=compact)
 
