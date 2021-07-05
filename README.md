@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ResearchGate](https://www.researchgate.net/profile/Meng-Chen-49)
+[ResearchGate](https://www.researchgate.net/profile/Meng-Chen-49)
 
 love U, no matter where U are or who U are.
 
