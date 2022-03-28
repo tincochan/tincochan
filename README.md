@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### statistics
+### Statistics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tincochan&layout=compact)
 
 
 
