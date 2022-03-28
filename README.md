@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan&theme=radical&show_icons=true)
 
 
 
