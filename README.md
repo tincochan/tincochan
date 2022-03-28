@@ -4,6 +4,8 @@
 
 love U, no matter where U are or who U are.
 
+### Playstation
+
 <a href="https://psnprofiles.com/Scheuerbuerste"><img src="https://card.psnprofiles.com/1/Scheuerbuerste.png" border="0"></a>
 
 <!--
@@ -20,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### statistics
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tincochan)
 
