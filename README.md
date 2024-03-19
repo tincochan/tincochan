@@ -15,7 +15,6 @@
   <a href="https://github.com/tincochan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tincochan&theme=outrun&show_icons=true" height="195"></img></a>
 </div>
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/tincochan-github-readme)
 
 
 
